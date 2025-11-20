@@ -4,17 +4,20 @@
 
 ## Introduction
 
-- Cache in general terms is a storage location where such data are stored which are frequently accesed or retrieved. In basic words, it enables faster retrieval of data.
+- A cache is a storage location where frequently accessed data is stored. This allows the system to retrieve information much faster compared to fetching it from slower storage such as a database.
 
 - Real-life Example:
 
-    - Let's say there's a movie which is in high demand(popular) or is recently released and people are frequently trying to access or watch it. Now a user sends request to the browser server to access the data, the server then access the database search the requested data and fetch it it's a longer process instead of all that we or the system uses caching a specific memory is allocated in ram where that movie data is accessed so whenever any user request that data the server can directly access the cache and return the requested data which make's it faster instead of fetching from specific database.
+    - Suppose a popular movie has just released and many users try to stream it. Normally, every request would require the server to query         the database, search for the movie, and then return the result. This repeated process increases load and latency.
+      To avoid this, the system stores the movie data in a cache (usually in RAM). When any user requests the movie, the server directly           returns the data from the cache, making the process significantly faster.
 
 ---
 
 ## Caching's Purpose
 
-- A cache's primary purpose is to increase data retrieval performance by reducing the need to access the underlying slower storage layer. Trading off capacity for speed, a cache typically stores a subset of data transiently, in contrast to databases whose data is usually complete and durable.
+- The main purpose of caching is to improve data retrieval performance by reducing the need to access slower storage layers.
+
+- A cache trades capacity for speed: it stores a smaller subset of data temporarily, whereas a database stores complete and durable data.
 
 ---
 
@@ -44,7 +47,9 @@
 
 ### Cache-Aside
 
-- In this approach, whenever any data is requested if that data is available in cache it is returned, if not available the data is fetched from database by the application and stored in cache for future usage it is also called lazy loading.
+- In this approach, whenever any data is requested if that data is available in cache it is returned, if not available the data is fetched from database by the application and stored in cache for future usage. 
+
+- This is also know as lazy loading.
 
 ![Cache Aside](images/cache-aside.png)
 
