@@ -46,9 +46,9 @@
   - Question your assumptions.
   - Box in or narrow down your vision for your future.
   - Develop your own curriculum of life.
-  - Architect a curriculum to make your dream possible.
+  - Architect a curriculum to make your dreams possible.
   - Have an open mindset to change and to grow.
-  - Honour the struggle when the journey gets hard and difficult.
+  - Honour the struggles when the journey gets hard and difficult.
 
   ---
 
