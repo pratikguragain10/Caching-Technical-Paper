@@ -1,6 +1,10 @@
 # Energy Management
 
+---
+
 ## Manage Energy, Not Time
+
+---
 
 ### Question 1: What are the activities you do that make you relax – Calm quadrant?
 - Taking a quiet walk  
