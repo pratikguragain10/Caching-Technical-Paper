@@ -39,7 +39,9 @@
 
 ## Sleep Is Your Superpower
 
-### Question 4: Paraphrase the video – Only points
+---
+
+### Question 4: Paraphrase the video
 - Sleep boosts memory and learning  
 - Lack of sleep weakens immunity  
 - Poor sleep increases the risk of chronic diseases  
@@ -64,7 +66,9 @@
 
 ## Brain-Changing Benefits of Exercise
 
-### Question 6: Paraphrase the video – Minimum 5 points (only points)
+---
+
+### Question 6: Paraphrase the video
 - Exercise increases neurogenesis (growth of new brain cells)  
 - It improves memory and learning ability  
 - Boosts mood by releasing neurotransmitters like dopamine and serotonin  
