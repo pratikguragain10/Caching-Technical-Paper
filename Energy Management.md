@@ -1,6 +1,6 @@
 # Energy Management
 
-## 1. Manage Energy, Not Time
+## Manage Energy, Not Time
 
 ### Question 1: What are the activities you do that make you relax – Calm quadrant?
 - Taking a quiet walk  
@@ -12,6 +12,8 @@
 - Talking to someone I trust  
 - Watching something peaceful  
 
+---
+
 ### Question 2: When do you find yourself getting into the Stress quadrant?
 - When deadlines are close  
 - When learning something completely new  
@@ -19,6 +21,8 @@
 - When expectations are high  
 - During intense physical or mental tasks  
 - When facing uncertainty or lack of clarity  
+
+---
 
 ### Question 3: How do you understand if you are in the Excitement quadrant?
 - I feel highly focused and energized  
@@ -29,7 +33,7 @@
 
 ---
 
-## 4. Sleep Is Your Superpower
+## Sleep Is Your Superpower
 
 ### Question 4: Paraphrase the video – Only points
 - Sleep boosts memory and learning  
@@ -39,6 +43,8 @@
 - Sleep enhances creativity and problem-solving  
 - Sleep helps emotional balance  
 - Consistent sleep improves lifespan and long-term health  
+
+---
 
 ### Question 5: What are some ideas you can implement to sleep better?
 - Go to bed and wake up at the same time daily  
@@ -52,7 +58,7 @@
 
 ---
 
-## 5. Brain-Changing Benefits of Exercise
+## Brain-Changing Benefits of Exercise
 
 ### Question 6: Paraphrase the video – Minimum 5 points (only points)
 - Exercise increases neurogenesis (growth of new brain cells)  
@@ -62,6 +68,8 @@
 - Enhances attention and concentration  
 - Strengthens long-term brain health and reduces cognitive decline  
 
+---
+
 ### Question 7: Steps you can take to exercise more
 - Schedule small exercise sessions daily (even 10 minutes)  
 - Start with simple activities like walking  
@@ -70,3 +78,5 @@
 - Join a class or find an exercise buddy  
 - Choose activities you enjoy (sports, dance, cycling)  
 - Track progress to stay motivated  
+
+---
